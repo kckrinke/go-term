@@ -7,7 +7,7 @@ import (
 
 	"time"
 
-	"github.com/pkg/term/termios"
+	"github.com/kckrinke/go-term/termios"
 )
 
 // assert that Term implements the same method set across
